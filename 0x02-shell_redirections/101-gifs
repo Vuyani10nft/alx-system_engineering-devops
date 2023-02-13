@@ -1,0 +1,3 @@
+#!/bin/bash
+find -type f -name "*.gist" | revv |cut -d "/" -f 1 | cut d '-' 2- | rev EC_ALL=csort -f
+`
